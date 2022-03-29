@@ -1,6 +1,0 @@
-[submodule "Weather"]
-	path = Weather
-	url = https://github.com/rosenrose/react-native-weather.git
-[submodule "WorkHardTravelHard"]
-	path = WorkHardTravelHard
-	url = https://github.com/rosenrose/react-native-workhardtravelhard.git
